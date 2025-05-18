@@ -14,7 +14,7 @@ This enchanted repository demonstrates how to use Ollama with Pydantic to produc
 First, clone the repository:
 
 ```bash
-git clone https://github.com/${GITHUB_REPOSITORY}.git
+git clone https://github.com/hannibalxking/ollama-structured-output.git
 cd ollama-structured-output
 ```
 
